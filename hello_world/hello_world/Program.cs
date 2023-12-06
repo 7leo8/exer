@@ -1,2 +1,3 @@
 ﻿
-    Console.WriteLine("Hello, World!");
+    Console.WriteLine("Введите имя пользователя: ");
+string bass = Console.ReadLine();
